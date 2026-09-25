@@ -52,5 +52,3 @@ This repository serves as my **learning log, experimentation space, and referenc
 New implementations, experiments, and projects will be added continuously.
 
 ---
-
-**Learning → Implementing → Experimenting → Building**
